@@ -1,6 +1,6 @@
 ## Markdown Practice
 
-This document is for practicing the markdown format and using git.
+This document is for practicing the markdown format and using git. So far two commits have been made.
 
 #### Main Goals:
 

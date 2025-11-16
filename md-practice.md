@@ -25,4 +25,6 @@ This document is for practicing the *markdown format* and using *git*. So far **
 * create and solve a merge conflict
 * display md file on web browser
 
+*now in process of making a new branch*
+
 > *You miss 100% of the shots you don't take*

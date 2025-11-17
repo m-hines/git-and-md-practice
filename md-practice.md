@@ -1,17 +1,16 @@
 # Markdown Practice
 
-This document is for practicing the *markdown format* and using *git*. So far **two commits** have been made.
+This document is for practicing the *markdown format* and using *git*. **Several** commits have been made.
 
-## Main Goals:
+## Primary:
 
-* practice writing markdown
-* practice using git commands
+* markdown
 * git branches
 * git merge
 * merge conflicts
 * .gitignore
 
-### Secondary Goals:
+### Secondary:
 
 1. Put another project on Github
 2. Write a good README.md
@@ -20,11 +19,14 @@ This document is for practicing the *markdown format* and using *git*. So far **
 
 #### To Do List
 
-* make a branch
-* merge main branch with another branch
-* merge another branch with main branch
-* create and solve a merge conflict
-* display md file on web browser
+* look up what a good README contains
+* write a good README
+* make a branch  [complete]
+* merge main branch with another branch  [I know the command, but I'm still fuzzy on when to do this and what effects it has]
+* merge another branch with main branch  [still fuzzy]
+* create and solve a merge conflict  [incomplete]
+* display md file on web browser  [incomplete]
+* learn how to use neovim more  [incomplete]
 
 *now in process of making a new branch*
 

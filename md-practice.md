@@ -28,6 +28,8 @@ This document is for practicing the *markdown format* and using *git*. **Several
 * display md file on web browser  [incomplete]
 * learn how to use neovim more  [incomplete]
 
-*now in process of making a new branch*
+###### Notes
+
+* to exit neovim without saving, use command q!
 
 > *You miss 100% of the shots you don't take*
